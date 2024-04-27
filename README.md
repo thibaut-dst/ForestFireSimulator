@@ -1,6 +1,6 @@
 # Forest Fire Simulator based on statistical model
 
-This project from 2020 served as learning for Object-oriented programming (OOP) on Java.
+This project from 2022 served as learning for Object-oriented programming (OOP) on Java.
 ### All meteorological parameters and land types contribute to an underlying statistical model that determines the fire's spreading direction and intensity over each iteration.
 
 The Graphical interface allows the user to follow the course of the simulation as well as to set the different parameters:
